@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageLogic", "Ex03.GarageLogic\Ex03.GarageLogic.csproj", "{A1EA8480-2411-4998-B33F-E63413DF7896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.ConsoleUI", "Ex03.ConsoleUI\Ex03.ConsoleUI.csproj", "{56F468A0-E575-4708-972A-704F74BC64C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF39087E-6342-4A6F-881A-AFFFDD479548}"
+	ProjectSection(SolutionItems) = preProject
+		B17 Ex03 Ofir 204502926 Chen 304843188.docx = B17 Ex03 Ofir 204502926 Chen 304843188.docx
+		SUBMIT DN IDC B17 Ex03 OfirNesher 204502926 ChenArnon 304843188.txt = SUBMIT DN IDC B17 Ex03 OfirNesher 204502926 ChenArnon 304843188.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1EA8480-2411-4998-B33F-E63413DF7896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1EA8480-2411-4998-B33F-E63413DF7896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1EA8480-2411-4998-B33F-E63413DF7896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1EA8480-2411-4998-B33F-E63413DF7896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F468A0-E575-4708-972A-704F74BC64C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F468A0-E575-4708-972A-704F74BC64C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F468A0-E575-4708-972A-704F74BC64C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F468A0-E575-4708-972A-704F74BC64C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
